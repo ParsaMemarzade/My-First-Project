@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1580188924 source:c:\users\parsa tuf\desktop\programing\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
